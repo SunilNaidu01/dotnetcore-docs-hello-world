@@ -54,4 +54,4 @@ jobs:
           app-name: 'Indianappservice'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2624A4E8B8E64CC49E443F579527A947 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC683874EC3B41F38A3B8282CED015C8 }}
